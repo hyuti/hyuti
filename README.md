@@ -1,13 +1,13 @@
 # Hyuti
-### Backend-Developer
+### Software engineer
 
-⤷ I am currently working on developing services for web applications. Mostly Python and Golang. I am looking to collaborate on any open source written golang or python. Feel free to contact me through email.
+⤷ I'm a software engineer, specializing in backend development. Mostly Python and Golang. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
 
  <a aligh="left" href="mailto:lehuy.hl27@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
 
 ⚐ Based in Vietnam
 
-ϟ Currently I am working as a Backend-Developer
+ϟ Currently I am working as a junior software engineer
 
 ϟ Recently I am learning about microservices
 
