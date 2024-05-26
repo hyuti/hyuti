@@ -1,7 +1,7 @@
 # Hyuti
 ### Software engineer
 
-⤷ I'm a software engineer, specializing in backend development. Mostly Python and Golang. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
+⤷ I'm a software engineer, specializing in backend development. Mostly Python and Golang. I love learning, sharing, and facing challenges. Last but not least, I am also focusing on code quality and Domain-Driven Design with Golang.
 
  <a aligh="left" href="mailto:lehuy.hl27@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
 
